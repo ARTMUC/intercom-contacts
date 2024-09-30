@@ -1,0 +1,7 @@
+github.com/danielgtaylor/huma/v2 v2.22.1/go.mod h1:2NZmGf/A+SstJYQlq0Xp4nsTDCmPvKS2w9vI8c9sf1A=
+github.com/go-generalize/go2ts v1.6.0/go.mod h1:TjBIzrW+K1EZCbLkh32OL1ramp54lFpVImiK6jmZvBs=
+github.com/google/go-cmp v0.5.2/go.mod h1:v8dTdLbMG2kIc/vJvl+f65V22dbkXbowE6jgT/gNBxE=
+github.com/google/go-querystring v1.1.0/go.mod h1:Kcdr2DB4koayq7X8pmAG4sNG59So17icRSOU623lUBU=
+github.com/webview/webview_go v0.0.0-20240831120633-6173450d4dd6/go.mod h1:yE65LFCeWf4kyWD5re+h4XNvOHJEXOCOuJZ4v8l5sgk=
+golang.org/x/xerrors v0.0.0-20191204190536-9bdfabe68543/go.mod h1:I/5z698sn9Ka8TeJc9MKroUUfqBBauWjQqLJ2OPfmY0=
+gopkg.in/intercom/intercom-go.v2 v2.0.0-20210504094731-2bd1af0ce4b2/go.mod h1:k7NO4r+VF6eXR9VY+U32m99wFGNudcwcXCeFSKrMwes=
